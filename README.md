@@ -1,4 +1,4 @@
-<img width="579" height="471" alt="image" src="https://github.com/user-attachments/assets/a1941abe-1ca3-4202-8643-7389b9b9b7aa" /># Fume Extractor
+# Fume Extractor
 
 This is a simple fume extractor with a tiny 80x80x25 computer fan. The stand is going to be 3d printed. CAD files are available!
 
@@ -18,3 +18,4 @@ This is a simple fume extractor with a tiny 80x80x25 computer fan. The stand is 
 | Case     | Print Legion (shipping) | 400 INR | --- |
 | Adapter  | 12V 1A DC          | 170 INR | [Amazon](https://www.amazon.in/gp/product/B0BNDWG6BN) |
 | Screws   | Local hardware / Scrap | ---    | --- |
+
