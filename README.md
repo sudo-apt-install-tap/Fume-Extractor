@@ -17,9 +17,8 @@ This is a simple fume extractor with a tiny 80x80x25 computer fan. The stand is 
 
 ## Bill of Materials (BOM)
 
-| Item Name | Price INR | Link |
-|----|----------|-----|-------------|----------|------------|-------------|
-| Fan | 159 | [Amazon](https://www.amazon.in/gp/product/B09CMT6TQR?smid=AJ6SIZC8YQDZX&psc=1) |
-| Adaptor(12V 1A) | 169 | [Amazon](https://www.amazon.in/gp/product/B0BNDWG6BN?smid=AJ6SIZC8YQDZX&psc=1) |
-| 3DP Shipping | ~500 | [NUL](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
-
+| Item Name            | Price (INR) | Link |
+|---------------------|-------------|------|
+| Fan                 | 159         | [Amazon](https://www.amazon.in/gp/product/B09CMT6TQR?smid=AJ6SIZC8YQDZX&psc=1) |
+| Adapter (12V 1A)    | 169         | [Amazon](https://www.amazon.in/gp/product/B0BNDWG6BN?smid=AJ6SIZC8YQDZX&psc=1) |
+| 3DP Shipping        | ~500        | [NUL](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
