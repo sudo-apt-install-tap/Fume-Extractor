@@ -17,6 +17,7 @@ This is a simple fume extractor with a tiny 80x80x25 computer fan. The stand is 
 
 ## Bill of Materials (BOM)
 
-.. csv-table::
-    :widths: 25 25 25 25
-    :file: BOM.csv
+Item Name,Price INR,Link
+Fan,159,Amazon
+Adaptor(12V 1A),169,Amazon
+3DP Shipping,~500,NUL
