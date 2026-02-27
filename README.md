@@ -17,4 +17,6 @@ This is a simple fume extractor with a tiny 80x80x25 computer fan. The stand is 
 
 ## Bill of Materials (BOM)
 
-BOM.CSV
+.. csv-table::
+    :widths: 25 25 25 25
+    :file: BOM.csv
